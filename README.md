@@ -1,6 +1,6 @@
 - 👋 Hi, I’m ijimhd.
 - 👀 I’m interested in tech.
-- 👨‍💻 I’m currently learning html, css, javascript. 
+- 👨‍💻 I’m currently learning Html, Css, Javascript. 
 - ✉️ How to reach me: Telegram: @ijimhd.
 
 <!---
